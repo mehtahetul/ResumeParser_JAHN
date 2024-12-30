@@ -19,7 +19,7 @@ Detailed Description:
 1. Resume Parsing Module:
 Input: The user provides a resume document in PDF, DOCX, DOC or HTML text format.
 Processing:
-The system utilizes certained pretrianed libraries from Hugging face (https://shorturl.at/nsxBX) to parse the inputted resume and identify specific sections such as skills, certifications, education, and work experience.
+The system utilizes certained pretrianed libraries from Hugging face (https://huggingface.co/) to parse the inputted resume and identify specific sections such as skills, certifications, education, and work experience.
 Output: Extracted sections are presented to the user, providing a structured overview of the candidate's qualifications and experiences.
 2. Job Title Mapping Module:
 Input: The system extracts previous and current job titles mentioned in the resume.
